@@ -4,6 +4,8 @@ lookWeights:
   - 1
   - 0
 maleFirst:
+  - Aaron
+  - Abraam
   - Abderus
   - Absyrtus
   - Abydos
@@ -11,19 +13,19 @@ maleFirst:
   - Achates
   - Achelous
   - Acheron
-  - Achilles
+  - Achilleas
   - Achlys
   - Acrisius
   - Actaeon
   - Acteon
-  - Adelphos
-  - Admes
+  - Adam
+  - Adamantios
   - Admetus
   - Adonis
   - Adras
   - Adrastos
   - Adrastus
-  - Adrian
+  - Adrianos
   - Aeacus
   - Aeetes
   - Aegeus
@@ -35,51 +37,49 @@ maleFirst:
   - Aesculapius
   - Aeson
   - Aetos
-  - Agamedes
-  - Agape
-  - Agatone
-  - Aindreas
-  - Aindriu
-  - Ajax
-  - Akil
-  - Alasd
-  - Alcander
+  - Agamemnonas
+  - Agapios
+  - Agathaggelos
+  - Agathoklis
+  - Aggelos
+  - Agisilaos
+  - Akakios
+  - Albert
+  - Albertos
   - Alcinoos
   - Alcinous
   - Alcnaeon
   - Alcyoneus
   - Alddes
-  - Alessandro
+  - Alekos
   - Alex
   - Alexander
-  - Alexandras
   - Alexandros
-  - Alexandrukas
-  - Alexei
-  - Alexio
-  - Alix
-  - Aloeus
-  - Alpheus
+  - Alexis
+  - Alexios
+  - Alkis
+  - Alkiviadis
+  - Alkinoos
   - Altair
   - Amaoebus
-  - Ambrocio
-  - Ambrose
+  - Ambrosios
+  - Ambrosis
   - Ambrus
   - Amphiaraus
-  - Amphion
+  - Amphilochios
   - Amphitryon
   - Ampyx
   - Amycus
-  - Anastagio
-  - Anastasio
+  - Anargiros
+  - Anastasis
   - Anastasios
   - Anastasius
   - Anasztaz
   - Anatol
   - Anatole
   - Anatoli
-  - Anatolijus
   - Anatolio
+  - Anatolios
   - Ancaeus
   - Anchises
   - Andor
@@ -87,42 +87,42 @@ maleFirst:
   - Andres
   - Andreus
   - Andrew
-  - Andries
-  - Androgeus
-  - Androu
-  - Anstice
-  - Anstiss
+  - Andrianos
+  - Androklis
+  - Andromachos
+  - Andronikos
+  - Anestis
   - Antaeus
   - Antares
-  - Anteros
+  - Anthimos
   - Antilochus
   - Antinous
-  - Antiphates
-  - Anton
-  - Antony
-  - Aonghas
-  - Apollo
-  - Apoloniusz
+  - Antipas
+  - Antonakis
+  - Antonis
+  - Antonios
+  - Apollonas
+  - Apostolis
   - Apostolos
   - Arcadicus
   - Arcas
   - Arcenio
-  - Archemorus
+  - Archontis
   - Ares
-  - Argo
+  - Argiris
   - Argos
-  - Argus
-  - Arion
-  - Aristaeus
-  - Aristo
-  - Arsen
-  - Arsenio
-  - Artemas
+  - Aris
+  - Aristarchos
+  - Aristeidis
+  - Aristionas
+  - Aristomenis
+  - Arkadios
+  - Artemios
   - Artemesio
   - Artemus
   - Ascalaphus
   - Asklepios
-  - Asopus
+  - Asterios
   - Athamas
   - Athan
   - Athanasios
@@ -132,10 +132,9 @@ maleFirst:
   - Attis
   - Autolycus
   - Avernus
-  - Baccaus
+  - Babis
   - Baccus
-  - Balasi
-  - Baltsaros
+  - Baltazar
   - Baptiste
   - Basil
   - Basile
@@ -146,7 +145,7 @@ maleFirst:
   - Baucis
   - Bazyli
   - Bemus
-  - Biton
+  - Billis
   - Boreas
   - Brasidas
   - Briareus
@@ -155,7 +154,6 @@ maleFirst:
   - Cadmus
   - Caesare
   - Calchas
-  - Calisto
   - Capaneus
   - Caseareo
   - Castor
@@ -168,14 +166,13 @@ maleFirst:
   - Cetus
   - Ceyx
   - Chris
-  - Christan
   - Christiano
   - Christoph
   - Christopher
   - Christophoros
   - Christos
   - Chruse
-  - Chrysostom
+  - Chrysostomos
   - Cimon
   - Cirio
   - Ciro
@@ -185,9 +182,7 @@ maleFirst:
   - Cleon
   - Cletus
   - Cleytus
-  - Clio
   - Cocytus
-  - Coeus
   - Coireall
   - Cole
   - Colin
@@ -196,14 +191,11 @@ maleFirst:
   - Coridan
   - Corybantes
   - Corydon
-  - Cos
   - Cosmas
-  - Cosmo
   - Cottus
   - Creon
   - Cretien
-  - Cristoforo
-  - Cristophe
+  - Cristoforos
   - Cronus
   - Ctesippus
   - Cyrano
@@ -211,18 +203,17 @@ maleFirst:
   - Cyril
   - Cyrus
   - Cyryl
-  - Damae
+  - David
   - Damalis
   - Damaris
-  - Damaskenos
   - Damaskinos
   - Damen
   - Dameon
-  - Damian
+  - Damianos
   - Damion
   - Damon
-  - Danaus
-  - Dardanus
+  - Danielos
+  - Daniil
   - Darian
   - Darien
   - Darion
@@ -238,38 +229,40 @@ maleFirst:
   - Demetri
   - Demetrios
   - Demetrius
+  - Demitrakis
   - Demitri
-  - Demitrius
   - Demodocus
   - Demophon
   - Demoritus
   - Denes
   - Dennis
-  - Deo
-  - Deucalion
-  - Doran
-  - Dorian
-  - Dorion
+  - Diamantis
+  - Dias
+  - Diogenis
+  - Diomidis
+  - Dionisis
+  - Diagoras
+  - Dimos
+  - Dimosthenis
   - Drakon
   - Drew
   - Dymas
-  - Eachann
-  - Efterpi
-  - Egidio
+  - Edouardos
+  - Ektoras
   - Eleftherios
   - Elek
   - Eleutherios
-  - Eli
+  - Elpidoforos
   - Enceladus
   - Endre
   - Endymion
   - Eneas
-  - Eoghan
+  - Epaminondas
   - Epeius
   - Erasmus
   - Erebus
   - Erechtheus
-  - Erichthonius
+  - Ermis
   - Erymanthus
   - Erysichthon
   - Eryx
@@ -281,7 +274,7 @@ maleFirst:
   - Eugene
   - Eugenio
   - Eugenios
-  - Eumaeus
+  - Eukratis
   - Eupeithes
   - Euphrosyne
   - Eurus
@@ -292,36 +285,37 @@ maleFirst:
   - Eurystheus
   - Euryton
   - Eusebius
-  - Eustace
+  - Eustathios
   - Eustachy
   - Eustis
   - Evan
   - Evzen
-  - Fedor
-  - Feodor
-  - Feodras
-  - Filippo
-  - Filips
-  - Flip
-  - Fulop
-  - Gaelan
-  - Galan
-  - Galen
-  - Galinthias
-  - Galyn
-  - Gelasius
-  - Georg
-  - George
-  - Georges
-  - Giles
-  - Glaucus
+  - Faidonas
+  - Fanis
+  - Fanouris
+  - Feidias
+  - Filimonas
+  - Filippos
+  - Fragiskos
+  - Fotis
+  - Gavriil
+  - Genadios
+  - Gennadios
+  - Gerasimos
+  - Georgios
+  - Giannis
+  - Gioulianos
+  - Giorgakis
+  - Giorgos
+  - Glaukos
+  - Glykos
   - Goran
   - Graeae
   - Gregoire
   - Gregoly
   - Gregor
-  - Gregorie
-  - Gregorior
+  - Gregorios
+  - Gregoris
   - Gregory
   - Gregos
   - Grigor
@@ -338,31 +332,31 @@ maleFirst:
   - Hector
   - Helios
   - Herodotus
-  - Homar
   - Homer
   - Homeros
-  - Homerus
+  - Hyakinthos
   - Hypnos
-  - Ibycus
-  - Icarius
-  - Icarus
-  - Icelos
-  - Icos
-  - Idas
-  - Igorr
-  - Inachus
-  - Iorgas
-  - Iphitus
-  - Istvan
-  - Ivan
-  - Ivankor
-  - Ixion
+  - Iakchos
+  - Iakovos
+  - Iasonas
+  - Ignatios
+  - Ieremias
+  - Ieronimos
+  - Ierotheos
+  - Ikaros
+  - Ilarionas
+  - Ioannis
+  - Iordanis
+  - Ippokratis
+  - Isidoras
+  - Ioakeim
+  - Iosif
   - Jaison
-  - Jase
-  - Jasen
+  - Jannis
   - Jason
-  - Jayce
-  - Jayr
+  - Jim
+  - Jimakos
+  - Jimis
   - Jaysen
   - Jayson
   - Jencir
@@ -374,72 +368,70 @@ maleFirst:
   - Jorenr
   - Julius
   - Jurgisr
-  - Kadmus
-  - Kairos
-  - Khristos
-  - Khrystiyanr
-  - Kit
-  - Klaasr
-  - Klaus
-  - Korudon
-  - Kosmosr
+  - Kallinikos
+  - Kallisthenis
+  - Karolos
+  - Kasianos
+  - Kimonas
+  - Kleanthis
+  - Klearchos
+  - Kleomenis
+  - Konstantinos
+  - Kostas
+  - Komninos
+  - Kornilios
+  - Kosmas
   - Kratos
-  - Krikor
-  - Krischnan
-  - Kristian
-  - Kristofr
-  - Krystupasr
-  - Krzysztofr
-  - Kuirilr
+  - Kriton
+  - Kronos
   - Kyrillos
-  - Kyrillosr
   - Kyros
   - Ladon
-  - Laertes
+  - Laertis
   - Laestrygones
-  - Laius
-  - Lander
-  - Laocoon
-  - Laomedon
-  - Leander
-  - Leandro
+  - Lambros
+  - Lazarikos
+  - Lazaros
+  - Lazos
+  - Leandros
+  - Leon
   - Leonidas
   - Lichas
   - Linus
   - Lippio
-  - Lotus
-  - Loxias
-  - Luke
+  - Logothetis
+  - Loukas
+  - Loukianos
   - Lycaon
   - Lycomedes
-  - Lycurgus
+  - Lykourgos
   - Lynceus
-  - Lysander
-  - Marcario
-  - Maurice
-  - Medus
-  - Melampus
-  - Melancton
-  - Melanthius
-  - Menelaus
-  - Menoeceus
-  - Mentor
-  - Midas
-  - Mikolas
-  - Miles
-  - Milo
-  - Minos
-  - Momus
-  - Mopsus
-  - Moses
-  - Myles
-  - Myron
-  - Narkis
-  - Nauplius
-  - Neleus
+  - Lysanderos
+  - Makarios
+  - Makedonas
+  - Makis
+  - Manthos
+  - Manolis
+  - Manousos
+  - Maximilanos
+  - Marinos
+  - Markos
+  - Martinos
+  - Mattheos
+  - Meletis
+  - Mikis
+  - Mitsos
+  - Miltiadis
+  - Miltos
+  - Minoas
+  - Michail
+  - Michalis
+  - Nathanail
+  - Napoleon
+  - Nestoras
   - Nemo
   - Nemos
-  - Neo
+  - Neoklis
   - Nicholas
   - Nicholaus
   - Nicias
@@ -450,62 +442,44 @@ maleFirst:
   - Nik
   - Nike
   - Niklaus
-  - Nikodem
+  - Nikodimos
   - Nikolai
-  - Nikolajis
-  - Nikolos
-  - Niles
+  - Nikolaos
+  - Nikolakis
   - Nilo
   - Nilos
   - Nisus
-  - Notus
-  - Obiareus
-  - Oighrig
-  - Oles
-  - Orrin
-  - Orthros
-  - Otis
-  - Pan
+  - Nontas
+  - Odisseas
+  - Olympios
+  - Omiros
+  - Onoufris
+  - Orestis
+  - Orfeas
+  - Othonas
+  - Panagis
   - Panagiotis
-  - Pancratius
+  - Panagos
   - Panos
-  - Panteleimon
-  - Papandrou
+  - Panteleimonas
+  - Pantelis
+  - Paraskevas
+  - Paraschos
   - Paris
-  - Patroclus
   - Patroklos
   - Pavlos
-  - Peadair
   - Peder
   - Pegeen
   - Peleus
   - Pelias
-  - Pello
-  - Pelops
-  - Pero
-  - Perrin
-  - Peterke
-  - Petrelis
+  - Pelopidas
+  - Periandros
+  - Periklis
+  - Petrakis
   - Petros
   - Petter
-  - Phantasos
-  - Phaon
-  - Philemon
-  - Philip
-  - Philipp
-  - Philippe
-  - Phillip
-  - Philo
-  - Phineas
-  - Phineus
-  - Phrixus
-  - Phylo
-  - Piero
-  - Pierro
-  - Pieter
-  - Pietr
-  - Pietro
-  - Pilib
+  - Pigasos
+  - Pileas
   - Piotr
   - Pippo
   - Pirithous
@@ -514,9 +488,9 @@ maleFirst:
   - Plato
   - Platon
   - Plexippus
-  - Plutus
-  - Pollux
-  - Poseidon
+  - Ploutarchos
+  - Polychronis
+  - Prodromos
   - Preben
   - Priam
   - Priapus
@@ -526,29 +500,29 @@ maleFirst:
   - Prophyrios
   - Protesilaus
   - Ptolemy
-  - Pyramus
-  - Rasmus
-  - Rhodes
-  - Risto
-  - Sabastian
-  - Salmoneus
-  - Scopas
-  - Sebasten
-  - Sebastian
-  - Sebastiano
-  - Simon
-  - Sinon
+  - Rallis
+  - Rafaelos
+  - Rafail
+  - Romanos
+  - Sabbas
+  - Sakis
+  - Samouil
+  - Sampson
+  - Sarantis
+  - Serafim
+  - Sergios
+  - Simos
   - Socrates
-  - Sofronio
-  - Soterios
+  - Sofronios
+  - Sotirios
   - Spyridon
-  - Stamitos
+  - Stamatis
+  - Stathis
   - Stavros
-  - Steafan
   - Stefan
   - Stefano
   - Stefanos
-  - Stefford
+  - Stelios
   - Stefon
   - Stephano
   - Stephanos
@@ -557,15 +531,15 @@ maleFirst:
   - Steven
   - Steverino
   - Takis
-  - Talos
-  - Talus
+  - Taksiarchis
+  - Tasos
   - Tantalus
   - Tarasios
-  - Teague
+  - Telis
   - Telamon
   - Telegonus
   - Telemachus
-  - Telephus
+  - Telios
   - Tellus
   - Teodors
   - Teofile
@@ -625,132 +599,159 @@ maleFirst:
   - Tyrone
   - Ulysses
   - Urian
+  - Vaggelis
+  - Vaggos
+  - Valantis
+  - Valerios
+  - Vartholomeos
+  - Varnavas
   - Vasileios
-  - Vasilios
   - Vasilis
-  - Vasos
-  - VasyItso
-  - Vasyklo
-  - Vasyl
-  - Xanthus
-  - Xeno
+  - Velisarios
+  - Veniamin
+  - Vissarionas
+  - Viktoras
+  - Vladimiros
+  - Vlasis
+  - Xakoustos
+  - Xanthipos
   - Xenophon
   - Xenos
   - Xerxes
   - Xuthus
   - Xylon
-  - Yanni
+  - Yannis
   - Yehor
   - Yuri
-  - Zale
-  - Zarek
-  - Zelotes
-  - Zeno
-  - Zenobio
+  - Zacharias
+  - Zafeiris
+  - Zinovios
+  - Zinon
+  - Zisimos
   - Zenon
   - Zenos
   - Zephyr
   - Zero
   - Zerro
   - Zetes
-  - Zoltan
+  - Zois
   - Zoltar
-  - Zorba
+  - Zorbas
   - Zotico
 femaleFirst:
   - Acacia
   - Acantha
   - Aegea
-  - Aeola
-  - Agalia
-  - Alala
-  - Aldora
-  - Aleni
-  - Anatolia
+  - Agathaggela
+  - Agathi
+  - Agapi
+  - Aggeliki
+  - Aggelina
+  - Aikaterini
+  - Alexandra
   - Andrianna
-  - Anemone
-  - Angeline
+  - Andromachi
+  - Angelina
   - Aphrodite
   - Athena
-  - Athenagora
+  - Artemis
   - Calantha
   - Calida
   - Cassia
   - Cyra
-  - Damia
+  - Danai
   - Daphne
-  - Deianira
-  - Delia
-  - Dido
+  - Dionisia
   - Dimitra
-  - Echo
-  - Elma
+  - Domna
+  - Dorothea
+  - Eirini
+  - Eleana
+  - Eleni
   - Elpida
-  - Emalia
-  - Erianthe
-  - Euphemia
-  - Euphenia
-  - Evadne
-  - Evanthe
+  - Eleftheria
+  - Elissavet
+  - Emmanouella
+  - Eva
+  - Evelina
+  - Faidra
   - Fotini
   - Galatea
+  - Galini
+  - Gavriela
   - Georgia
+  - Giota
+  - Glykeria
   - Halcyone
   - Helena
   - Helia
   - Hera
   - Hermione
-  - Isadora
-  - Jocasta
-  - Kalidas
-  - Kaligenia
-  - Kalligenia
-  - Kallirrhoe
-  - Kalonice
-  - Kyriakoula
-  - Lalage
-  - Leandra
-  - Leda
-  - Lycoris
-  - Lyris
-  - Marina
+  - Ioulia
+  - Ioanna
+  - Irida
+  - Ifigeneia
+  - Jocasti
+  - Kalisto
+  - Kalliopi
+  - Kalomoira
+  - Katerina
+  - Kerasa
+  - Kleopatra
+  - Konstantina
+  - Korina
+  - Kyriaki
+  - Lamprini
+  - Laoura
+  - Lemonia
+  - Lia
+  - Liza
+  - Magdalini
+  - Maria
   - Medora
   - Melantha
   - Melina
   - Melissa
-  - Mona
-  - Neola
-  - Neona
-  - Nerissa
-  - Niobe
+  - Michaella
+  - Nagia
+  - Nantia
+  - Nansi
+  - Natalia
+  - Nikol
+  - Nina
   - Olga
-  - Orthia
-  - Pandora
+  - Olivia
+  - Olympia
+  - Ourania
+  - Paladia
   - Pangiota
+  - Parthena
   - Pelagia
   - Penelope
   - Persephone
-  - Philantha
-  - Philomela
-  - Philomena
-  - Philothea
-  - Phoebe
-  - Rhea
-  - Saphhira
-  - Sofronia
-  - Stamata
+  - Polyxeni
+  - Polina
+  - Popi
+  - Rafaela
+  - Rena
+  - Rodanthi
+  - Roza
+  - Salomi
+  - Santi
+  - Sofia
+  - Stamatia
   - Stella
-  - Tassia
-  - Tassula
-  - Tessa
-  - Thaddea
-  - Thalassa
-  - Tharsia
+  - Tamara
+  - Tania
+  - Tasia
+  - Tatiana
+  - Tereza
+  - Tonia
   - Theodosia
   - Theophilia
   - Thetis
   - Timothea
-  - Toula
+  - Tsampika
   - Xantippe
   - Yana
   - Zenaida
@@ -758,43 +759,49 @@ femaleFirst:
   - Zephyra
   - Zoe
 maleLast:
+  - Adamopoulos
+  - Aggelidis
+  - Akritidis
+  - Alafouzos
+  - Alexiou
   - Alexopoulos
-  - Anagyros
-  - Anastassios
+  - Anastasiadis
+  - Anastasiou
   - Andreadis
-  - Andreos
-  - Andriopoulos
+  - Andreou
+  - Andrianopoulos
   - Andronikos
   - Andros
-  - Androuchelli
-  - Androupolos
+  - Androuchellis
+  - Andropoulos
   - Androutsos
-  - Angelis
+  - Angelou
   - Angelomatis
-  - Angelos
-  - Anistonopoulos
+  - Anistopoulos
   - Anninos
+  - Anopoulos
   - Antikatzides
   - Antonatos
   - Antonious
-  - Argyra
+  - Argyros
   - Athanasiadis
-  - Athanassiadi
+  - Athanasopoulos
   - Averoff
   - Axelos
   - Bakirdzis
-  - Bakogianni
+  - Bakogiannis
   - Balanos
   - Bazignos
   - Bessarion
-  - Bizos
+  - Bezos
   - Borbokis
   - Botsaris
+  - Boubouridis
   - Boudouris
   - Bourgani
-  - Capodistria
+  - Capodistrias
   - Carides
-  - Castriota
+  - Castriotis
   - Catalactus
   - Chacoliades
   - Chakiris
@@ -804,7 +811,7 @@ maleLast:
   - Constantinis
   - Cosmatos
   - Costanduros
-  - Costi
+  - Costis
   - Cotsadis
   - Couloumbis
   - Coulouris
@@ -813,34 +820,35 @@ maleLast:
   - Delivorias
   - Dellas
   - Demertzis
+  - Demetzidis
   - Demosthenous
   - Dimas
-  - Dimitrakos
-  - Dimitriades
-  - Dimitris
+  - Dimitrakakos
+  - Dimitriadis
+  - Dimitriou
   - Dimotsios
   - Diomedes
   - Dontas
   - Doxiadis
-  - Dukakis
-  - Duvis
-  - Economakis
-  - Economos
+  - Doukakis
+  - Duvlis
+  - Ekonomakis
+  - Ekonomou
   - Eliades
   - Elipandas
   - Ellinas
   - Farakos
   - Fettas
   - Florakis
-  - Galonopoulas
+  - Galonopoulos
   - Gatsioudis
   - Gatzioudis
-  - Gavrielides
+  - Gavrielidis
   - Gennadios
   - Genovelis
   - Georghios
   - Giorgiou
-  - Gislenus
+  - Gislenous
   - Gizikis
   - Glezos
   - Gogos
@@ -851,19 +859,19 @@ maleLast:
   - Grivas
   - Hagiorgis
   - Hajiyanni
-  - Halara
+  - Halaras
   - Harteros
   - Iakovakis
-  - Iakovos
-  - Iatrides
+  - Iakovidis
+  - Iatridis
   - Ioannidis
-  - Ioannos
+  - Ioannou
   - Issigonis
   - Joakimides
   - Kairis
   - Kaklamanakis
-  - Kakoulli
-  - Kalergi
+  - Kakoullidis
+  - Kalergis
   - Kallabis
   - Kalvos
   - Kanaris
@@ -873,8 +881,8 @@ maleLast:
   - Karaiskakis
   - Karamanlis
   - Karatossos
-  - Karoki
-  - Karyoti
+  - Karokis
+  - Karyotis
   - Kasomoulis
   - Katsantonis
   - Katsaris
@@ -882,7 +890,7 @@ maleLast:
   - Khadjikyriakos
   - Klaras
   - Kochalakos
-  - Koffa
+  - Koffas
   - Kokkinos
   - Kokotis
   - Kolettis
@@ -904,11 +912,11 @@ maleLast:
   - Koundouriotis
   - Kourniakis
   - Kousoulas
-  - Kozani
+  - Kozanis
   - Kritopoulos
   - Kyprianos
   - Kyriacos
-  - Kyriakos
+  - Kyriakou
   - Kyriazis
   - Lambrakis
   - Lambrianos
@@ -917,7 +925,7 @@ maleLast:
   - Lazardis
   - Leonidis
   - Lianis
-  - Logotheti
+  - Logothetis
   - Louca
   - Louganis
   - Louvaris
@@ -934,13 +942,13 @@ maleLast:
   - Mardas
   - Marinatos
   - Markezinis
-  - Markoulides
-  - Markoullides
+  - Markoulidis
+  - Markouliadis
   - Marsolais
   - Martis
   - Matacena
   - Mavridos
-  - Mavrogordatos
+  - Mavrogatos
   - Mavrokordatos
   - Mavromikhalis
   - Mavros
@@ -949,8 +957,8 @@ maleLast:
   - Melas
   - Meletoglos
   - Melikis
-  - Melissanides
-  - Mercouri
+  - Melissanidis
+  - Mercouris
   - Merukides
   - Messimeris
   - Metaxas
@@ -963,53 +971,51 @@ maleLast:
   - Monomachus
   - Moscopolis
   - Moumoulidis
-  - Muscouri
+  - Muscouris
   - Mylonas
   - Nafpliotis
   - Negris
   - Niarkhos
-  - Nikolaides
+  - Nikolaidis
   - Onassis
-  - Orphanides
+  - Orphanidis
   - Oxinos
   - Palamas
   - Pallis
-  - Panagiatopoulos
-  - Panagiopoulos
-  - Panagiotopos
+  - Panagiotopoulos
+  - Panagopoulos
+  - Panagiotidis
   - Panagou
   - Panagoulias
   - Panagoulis
   - Panaotis
   - Panavoglos
-  - Panayi
-  - Panayides
+  - Panayni
+  - Panayidis
   - Panayiotopoulos
   - Panayiotos
   - Pangalos
   - Papadakis
-  - Papademetrios
+  - Papademetriou
   - Papadias
-  - Papadopolos
   - Papadopoulos
-  - Papadoupolos
   - Papafagos
-  - Papageorgios
+  - Papageorgiou
   - Papagos
   - Papakostas
   - Papamichael
   - Papanastasiou
   - Papandreou
   - Papasotiriou
-  - Papatamelis
+  - Papathemelis
   - Papathanassios
   - Papoulias
   - Pappas
-  - Parastadidis
+  - Parastasidis
   - Pattakos
   - Pavlakakis
   - Pentzopoulos
-  - Pesmazoglos
+  - Pesmazoglou
   - Pheraios
   - Philipousis
   - Pierides
